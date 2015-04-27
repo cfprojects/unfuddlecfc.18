@@ -1,0 +1,1 @@
+<cflocation url="generateCredentials.cfm" addtoken="FALSE" />
